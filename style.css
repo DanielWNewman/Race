@@ -64,7 +64,7 @@ body {
   color: #222;
   position:absolute;
   right: 50%;
-  top: -15%;
+  top: -10%;
   transform: translate(50%, 50%);
   font-family: monospace;
   background-color: #eee;
