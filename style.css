@@ -2,15 +2,19 @@ body {
   background-color: #;
   margin: -1px;
   padding: 0;
-  max-width:2000px;
+  max-width: 2000px;
+  margin:auto
 }
+
 
 .top_part{
   padding:0;
+  padding-bottom: 15px;
 }
 .top_picture{
   width:100%;
   margin:auto;
+  border-bottom: 10px solid #333;
 }
 
 .title_text
@@ -26,7 +30,6 @@ body {
   transform: translate(50%, 50%);
   font-family: monospace;
   background-color: #eee;
-
 
 }
 .top_word_box{
